@@ -440,3 +440,4 @@ var cryptoZombiesABI = [
     }
   ]
   
+  export default cryptoZombiesABI;
